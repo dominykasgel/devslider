@@ -1,0 +1,13 @@
+.devslider .slide {
+    height: 250px;
+    background-size: 100% 100%;
+}
+
+.devslider .slide .title {
+    width: 100%;
+    color: #FFF;
+    background: #000;
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    padding: 10px;
+}
